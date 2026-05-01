@@ -10,6 +10,7 @@ public class DemoApplication {
         System.out.println("hhhhsss");
         System.out.println("dsaccccddddddddxxxxxxxxxxxxxsssssdd");
         System.out.println("master commit");
+        System.out.println("hot-fix commit");
         SpringApplication.run(DemoApplication.class, args);
     }
 
